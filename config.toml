@@ -1,4 +1,28 @@
-baseURL = 'http://menzenski.github.io/'
-languageCode = 'en-us'
+baseURL = 'https://menzen.ski/'
+author = "Matt Menzenski"
 title = "Matt's Words"
 theme = 'PaperMod'
+metaDataFormat = "toml"
+languageCode = 'en-us'
+DefaultContentLanguage = 'en-us'
+
+[outputs]
+home = [
+    "HTML",
+    "RSS",
+]
+
+[params]
+author = "Matt Menzenski"
+twitter = "menzenski"
+linkedin = "/in/menzenski"
+github = "menzenski/words"
+ShowCodeCopyButtons = "true"
+ShowWordCount = "false"
+ShowRssButtonInSectionTermList = "true"
+ShowShareButtons = "false"
+
+
+[permalinks]
+post = ":slug/"
+page = ":slug/"
