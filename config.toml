@@ -1,6 +1,6 @@
 baseURL = 'https://menzen.ski/'
 author = "Matt Menzenski"
-title = "Matt's Words"
+title = "Rarefied Err"
 theme = 'PaperMod'
 metaDataFormat = "toml"
 languageCode = 'en-us'
