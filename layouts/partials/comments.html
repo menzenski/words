@@ -1,17 +1,17 @@
-{{- if isset .site.params "giscus" -}}
-  {{- if and (isset .site.params.giscus "repo") (not (eq .site.params.giscus.repo "" )) (eq (.params.comments | default false) true) -}}
+{{- if isset .Site.Params "giscus" -}}
+  {{- if and (isset .Site.Params.giscus "repo") (not (eq .Site.Params.giscus.repo "" )) (eq (.Site.Params.comments | default false) true) -}}
   <script src="https://giscus.app/client.js"
-    data-repo="{{ .site.params.giscus.repo }}"
-    data-repo-id="{{ .site.params.giscus.repoID }}"
-    data-category="{{ .site.params.giscus.category }}"
-    data-category-id="{{ .site.params.giscus.categoryID }}"
-    data-mapping="{{ default "pathname" .site.params.giscus.mapping }}"
-    data-reactions-enabled="{{ default "1" .site.params.giscus.reactionsEnabled }}"
-    data-emit-metadata="{{ default "0" .site.params.giscus.emitMetadata }}"
-    data-input-position="{{ default "bottom" .site.params.giscus.inputPosition }}"
-    data-theme="{{ default "light" .site.params.giscus.theme }}"
-    data-lang="{{ default "en" .site.params.giscus.lang }}"
-    data-loading="{{ default "lazy" .site.params.giscus.loading }}"
+    data-repo="{{ .Site.Params.giscus.repo }}"
+    data-repo-id="{{ .Site.Params.giscus.repoID }}"
+    data-category="{{ .Site.Params.giscus.category }}"
+    data-category-id="{{ .Site.Params.giscus.categoryID }}"
+    data-mapping="{{ default "pathname" .Site.Params.giscus.mapping }}"
+    data-reactions-enabled="{{ default "1" .Site.Params.giscus.reactionsEnabled }}"
+    data-emit-metadata="{{ default "0" .Site.Params.giscus.emitMetadata }}"
+    data-input-position="{{ default "bottom" .Site.Params.giscus.inputPosition }}"
+    data-theme="{{ default "light" .Site.Params.giscus.theme }}"
+    data-lang="{{ default "en" .Site.Params.giscus.lang }}"
+    data-loading="{{ default "lazy" .Site.Params.giscus.loading }}"
     crossorigin="anonymous"
     async>
   </script>
