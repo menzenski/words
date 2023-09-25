@@ -21,7 +21,14 @@ ShowCodeCopyButtons = "true"
 ShowWordCount = "false"
 ShowRssButtonInSectionTermList = "true"
 ShowShareButtons = "false"
+comments = true
 
+[params.giscus]
+repo = "menzenski/words"
+repoID = "R_kgDOJg8gvA"
+category = "Announcements"
+categoryID = "DIC_kwDOJg8gvM4CZnYI"
+inputPosition = "top"
 
 [permalinks]
 post = ":slug/"
