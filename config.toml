@@ -6,6 +6,13 @@ metaDataFormat = "toml"
 languageCode = 'en-us'
 DefaultContentLanguage = 'en-us'
 
+[menu]
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 10
+
 [outputs]
 home = [
     "HTML",
@@ -33,6 +40,18 @@ inputPosition = "top"
 [params.plausible]
 enable = true
 domain = "menzen.ski"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/menzenski"
+
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/me.nzen.ski"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/menzenski/"
 
 [permalinks]
 post = ":slug/"
