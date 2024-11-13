@@ -1,7 +1,8 @@
-+++
-title = "A November 2024 Update"
-date = "2024-11-12T16:51:07-06:00"
-+++
+---
+title: "A November 2024 Update"
+date: "2024-11-12T16:51:07-06:00"
+disableShare: true
+---
 
 I posted a "Hello World" on this blog eighteen months ago (almost exactly).
 I'm finally ready to post a sequel.
