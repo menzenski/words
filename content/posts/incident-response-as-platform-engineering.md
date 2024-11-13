@@ -47,7 +47,7 @@ with non-platform-engineering developers - they can intuit where there is toil t
 to the developers. All of this is fine.
 
 But there's another kind of toil that's worth platform engineering attention as well - the incident response process.
-If "creating new infrastructure" is toil, it's _planned toil_. Incident respnose is _unplanned toil_ - a developer gets
+If "creating new infrastructure" is toil, it's _planned toil_. Incident response is _unplanned toil_ - a developer gets
 pulled away from their differentiating-value work to chase down an issue in the logs, roll back a failed deployment,
 push a hotfix for a broken depednency, or exec into a pod and test network connectivity. Insert your own organization's
 incident actions as appropriate.
