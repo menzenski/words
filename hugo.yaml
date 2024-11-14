@@ -63,3 +63,17 @@ permalinks:
 module:
   imports:
     - path: "github.com/divinerites/plausible-hugo"
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: solarized-light
+    tabWidth: 4
