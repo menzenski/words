@@ -28,6 +28,7 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   ShowShareButtons: false
   comments: true
 
@@ -55,6 +56,8 @@ params:
       url: "https://bsky.app/profile/me.nzen.ski"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/menzenski/"
+    - name: "rss"
+      url: "https://menzen.ski/index.xml"
 
 permalinks:
   post: ":slug/"
