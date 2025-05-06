@@ -5,7 +5,7 @@ disableShare: true
 ---
 
 Yesterday I attended a KubeCon panel that ended up being one of my favorite KubeCon sessions of the week: "Platform
-Engineering In Financial Institutions: The Practicioner Panel". Moderated by
+Engineering In Financial Institutions: The Practitioner Panel". Moderated by
 [Paula Kennedy](https://bsky.app/profile/paulalkennedy.bsky.social) (Syntasso), with panelists
 Chris Plank (NatWest Bank), [Suhail Patel](https://bsky.app/profile/suhailpatel.bsky.social) (Monzo),
 [Jinhong Brejnholt](https://bsky.app/profile/jbrejnholt.bsky.social) (Saxo Bank), and
@@ -13,7 +13,7 @@ Chris Plank (NatWest Bank), [Suhail Patel](https://bsky.app/profile/suhailpatel.
 and sustaining a platform engineering practice in a highly-regulated industry.
 
 I enjoyed the panel very much. I wish it had been longer, even - there was so much good discussion happening that it
-went over its alloted time. The whole panel was interesting, but at the end it got extra-interesting for me, because
+went over its allotted time. The whole panel was interesting, but at the end it got extra-interesting for me, because
 the conversation started to pivot to the impact of all those regulations and whether they could be a good thing.
 
 I'm a fan of the idea of ["enabling constraints"](https://cutlefish.substack.com/p/making-things-better-with-enabling),

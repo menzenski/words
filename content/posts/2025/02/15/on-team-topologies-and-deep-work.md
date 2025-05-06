@@ -89,7 +89,7 @@ In fact _Team Topologies_ uses what is perhaps my favorite term ever used in a b
 communication structures, than if you reshape the organization so that it has particular communication structures, it
 will **naturally** produce architectures with that same (desired} arrangement. (Skelton and Pais did not create this
 term, and _Team Topologies_ is about much more than doing reverse Conway maneuvers, but it is a powerful example of
-desigining an environment to facilitate the creation of value).
+designing an environment to facilitate the creation of value).
 
 An individual can't do anything as dramatic as a reverse Conway maneuver, but _Deep Work_ does still provide a number of
 strategies in the area of environment design. Many of these revolve around creating time and space that is conducive

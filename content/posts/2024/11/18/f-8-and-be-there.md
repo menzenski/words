@@ -13,7 +13,7 @@ As I mentioned in
 [my first post last week]({{< ref "a-november-2024-update.md" >}} "A November 2024 Update"), I've been fighting writer's
 block for months. Or rather, while I've _been_ writing (some), I've been fighting "publisher's block" - clicking
 "publish" on an email newsletter, knowing that doing so will "push" my writing into the inboxes of friends, family,
-professional colleagues, and interested parties, is tough. It feels signficant, and makes me want to hold off publishing
+professional colleagues, and interested parties, is tough. It feels significant, and makes me want to hold off publishing
 until I have something more substantial to say, or until I've added more references, or until I have read another book
 on the subject, or until I've whatever elsed that isn't actually publishing.
 
